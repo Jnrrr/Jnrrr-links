@@ -97,7 +97,7 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 100%; }
 body {
-  background-image:url('../images/background.gif');
+  background-image:url('../images/mario.gif');
   background-position: center;
   background-size: cover;
   font-size: 18px;
